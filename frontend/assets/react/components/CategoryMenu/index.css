@@ -1,0 +1,128 @@
+.categories {
+    height: 44px;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    justify-content: center;
+    /*transition: all 1ms linear;*/
+
+}
+
+/*.mobile-categories {*/
+/*transition: all 1ms linear;*/
+/*}*/
+
+.categories a {
+    height: 44px;
+    padding: 0 18px;
+    display: block;
+    line-height: 44px;
+    margin-right: 4px;
+    border-radius: 100px;
+    color: black !important;
+}
+
+.categories .active > a {
+    background: black;
+    color: #fff !important;
+}
+
+.categories-fixed {
+    width: 100%;
+    background: #fff;
+    top: 0;
+    margin: 0;
+    min-height: 70px;
+    align-items: center;
+}
+
+.categories-fixed-position {
+    position: fixed !important;
+    z-index: 500;
+    /*transition: all 1ms linear;*/
+}
+
+.MobileCatalogPageFilters_container {
+    top: 15px;
+    position: relative;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-top: -15px;
+    padding-bottom: 20px;
+    -webkit-overflow-scrolling: touch;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    background: #fff;
+    z-index: 10000;
+}
+
+.MobileCatalogPageFilters_filters {
+    white-space: nowrap;
+}
+
+.MobileCatalogPageFilters_filter {
+    width: 70px;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+.MobileCatalogPageFilters_filterIcon {
+    width: 70px;
+    height: 70px;
+    border: 1px solid rgba(0, 0, 0, .05);
+    display: block;
+    transition: all 200ms;
+    border-radius: 20px;
+    background-size: 34px 34px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.MobileCatalogPageFilters_filterName {
+    color: #000 !important;
+    margin: 4px -5px 0;
+    height: 16px;
+    display: block;
+    overflow: hidden;
+    font-size: 13px;
+    text-align: center;
+    white-space: normal;
+    text-overflow: ellipsis;
+    text-decoration: none;
+}
+
+.MobileCatalogPageFilters_filter.active > i {
+    background-color: #e1e1e1;
+}
+
+.MobileCatalogPageFilters_filter.active > a {
+    font-weight: bold;
+}
+
+#nav-categories {
+    z-index: 1111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pin-top {
+    position: relative;
+}
+
+.pin-bottom {
+    position: relative;
+}
+
+.pinned {
+    position: fixed !important;
+    top: 0;
+    margin: 0;
+    left: 0;
+}
+
+.categories li.active {
+    background: none !important;
+}

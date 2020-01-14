@@ -1,0 +1,5 @@
+const AppService = {
+    init: store => {
+
+    }
+}

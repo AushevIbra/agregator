@@ -1,0 +1,19 @@
+nav {
+    background-color: #fff !important;
+}
+nav .brand-logo {
+    position: absolute;
+    color: #fff;
+    display: flex;
+    font-size: 2.1rem;
+    padding: 0;
+    top: 5px;
+}
+
+nav a {
+    color: black !important;
+}
+
+.sidenav-overlay {
+    z-index: 99999;
+}

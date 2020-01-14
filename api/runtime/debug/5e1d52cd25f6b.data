@@ -1,0 +1,211 @@
+a:14:{s:6:"config";s:6702:"a:5:{s:10:"phpVersion";s:37:"7.2.24-1+ubuntu18.04.1+deb.sury.org+1";s:10:"yiiVersion";s:6:"2.0.30";s:11:"application";a:8:{s:3:"yii";s:6:"2.0.30";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:5:"ru-RU";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:37:"7.2.24-1+ubuntu18.04.1+deb.sury.org+1";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:29:{s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:8:"2.0.10.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:46:"/var/www/eda/vendor/yiisoft/yii2-bootstrap/src";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.1.2.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:48:"/var/www/eda/vendor/yiisoft/yii2-swiftmailer/src";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.1.12.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:42:"/var/www/eda/vendor/yiisoft/yii2-debug/src";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.1.3.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:40:"/var/www/eda/vendor/yiisoft/yii2-gii/src";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:38:"/var/www/eda/vendor/yiisoft/yii2-faker";}}s:23:"yiisoft/yii2-bootstrap4";a:3:{s:4:"name";s:23:"yiisoft/yii2-bootstrap4";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:15:"@yii/bootstrap4";s:47:"/var/www/eda/vendor/yiisoft/yii2-bootstrap4/src";}}s:34:"2amigos/yii2-transliterator-helper";a:3:{s:4:"name";s:34:"2amigos/yii2-transliterator-helper";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:25:"@dosamigos/transliterator";s:54:"/var/www/eda/vendor/2amigos/yii2-transliterator-helper";}}s:26:"elisdn/yii2-composite-form";a:3:{s:4:"name";s:26:"elisdn/yii2-composite-form";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:21:"@elisdn/compositeForm";s:50:"/var/www/eda/vendor/elisdn/yii2-composite-form/src";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:49:"/var/www/eda/vendor/kartik-v/yii2-krajee-base/src";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:54:"/var/www/eda/vendor/kartik-v/yii2-widget-typeahead/src";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:7:"1.2.3.0";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:54:"/var/www/eda/vendor/kartik-v/yii2-widget-touchspin/src";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:12:"@kartik/time";s:55:"/var/www/eda/vendor/kartik-v/yii2-widget-timepicker/src";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:52:"/var/www/eda/vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:52:"/var/www/eda/vendor/kartik-v/yii2-widget-spinner/src";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:48:"/var/www/eda/vendor/kartik-v/yii2-widget-sidenav";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:7:"2.1.7.0";s:5:"alias";a:1:{s:15:"@kartik/select2";s:52:"/var/www/eda/vendor/kartik-v/yii2-widget-select2/src";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:14:"@kartik/rating";s:51:"/var/www/eda/vendor/kartik-v/yii2-widget-rating/src";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:13:"@kartik/range";s:55:"/var/www/eda/vendor/kartik-v/yii2-widget-rangeinput/src";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:46:"/var/www/eda/vendor/kartik-v/yii2-widget-growl";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:7:"1.0.9.0";s:5:"alias";a:1:{s:12:"@kartik/file";s:54:"/var/www/eda/vendor/kartik-v/yii2-widget-fileinput/src";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.6.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:52:"/var/www/eda/vendor/kartik-v/yii2-widget-depdrop/src";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.9.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:59:"/var/www/eda/vendor/kartik-v/yii2-widget-datetimepicker/src";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.7.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:55:"/var/www/eda/vendor/kartik-v/yii2-widget-datepicker/src";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:7:"1.0.5.0";s:5:"alias";a:1:{s:13:"@kartik/color";s:55:"/var/www/eda/vendor/kartik-v/yii2-widget-colorinput/src";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:46:"/var/www/eda/vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@kartik/affix";s:46:"/var/www/eda/vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.5.8.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:55:"/var/www/eda/vendor/kartik-v/yii2-widget-activeform/src";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:7:"3.4.1.0";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:45:"/var/www/eda/vendor/kartik-v/yii2-widgets/src";}}s:29:"igogo5yo/yii2-upload-from-url";a:3:{s:4:"name";s:29:"igogo5yo/yii2-upload-from-url";s:7:"version";s:7:"1.4.0.0";s:5:"alias";a:1:{s:23:"@igogo5yo/uploadfromurl";s:53:"/var/www/eda/vendor/igogo5yo/yii2-upload-from-url/src";}}}}";s:7:"request";s:2888:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:10:{s:15:"accept-language";s:56:"ru,en;q=0.9,la;q=0.8,hr;q=0.7,mt;q=0.6,zh;q=0.5,cs;q=0.4";s:15:"accept-encoding";s:13:"gzip, deflate";s:7:"referer";s:37:"http://localhost:3000/restaurant/jroo";s:6:"origin";s:21:"http://localhost:3000";s:10:"user-agent";s:135:"Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1";s:6:"accept";s:33:"application/json, text/plain, */*";s:10:"connection";s:10:"keep-alive";s:4:"host";s:11:"api.eda.loc";s:14:"content-length";s:0:"";s:12:"content-type";s:0:"";}s:15:"responseHeaders";a:7:{s:4:"Vary";s:6:"Accept";s:27:"Access-Control-Allow-Origin";s:1:"*";s:29:"Access-Control-Expose-Headers";s:0:"";s:12:"Content-Type";s:31:"application/json; charset=UTF-8";s:11:"X-Debug-Tag";s:13:"5e1d52cd25f6b";s:16:"X-Debug-Duration";s:2:"12";s:12:"X-Debug-Link";s:37:"/debug/default/view?tag=5e1d52cd25f6b";}s:5:"route";s:14:"v1/foods/index";s:6:"action";s:57:"app\modules\v1\controllers\FoodsController::actionIndex()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:3:"GET";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:0:{}s:6:"SERVER";a:33:{s:4:"USER";s:8:"www-data";s:4:"HOME";s:8:"/var/www";s:20:"HTTP_ACCEPT_LANGUAGE";s:56:"ru,en;q=0.9,la;q=0.8,hr;q=0.7,mt;q=0.6,zh;q=0.5,cs;q=0.4";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:12:"HTTP_REFERER";s:37:"http://localhost:3000/restaurant/jroo";s:11:"HTTP_ORIGIN";s:21:"http://localhost:3000";s:15:"HTTP_USER_AGENT";s:135:"Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1";s:11:"HTTP_ACCEPT";s:33:"application/json, text/plain, */*";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:9:"HTTP_HOST";s:11:"api.eda.loc";s:15:"SCRIPT_FILENAME";s:30:"/var/www/eda/api/web/index.php";s:15:"REDIRECT_STATUS";s:3:"200";s:11:"SERVER_NAME";s:11:"api.eda.loc";s:11:"SERVER_PORT";s:2:"80";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"REMOTE_PORT";s:5:"33868";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:15:"SERVER_SOFTWARE";s:12:"nginx/1.14.0";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:14:"REQUEST_SCHEME";s:4:"http";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:13:"DOCUMENT_ROOT";s:20:"/var/www/eda/api/web";s:12:"DOCUMENT_URI";s:10:"/index.php";s:11:"REQUEST_URI";s:25:"/v1/foods?restaurant=jroo";s:11:"SCRIPT_NAME";s:10:"/index.php";s:14:"CONTENT_LENGTH";s:0:"";s:12:"CONTENT_TYPE";s:0:"";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:15:"restaurant=jroo";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1578980045.154026;s:12:"REQUEST_TIME";i:1578980045;}s:3:"GET";a:1:{s:10:"restaurant";s:4:"jroo";}s:4:"POST";a:0:{}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}";s:6:"router";s:1451:"a:3:{s:8:"messages";a:7:{i:5;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1578980045.155984;i:4;a:0:{}i:5;i:1314128;}i:6;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1578980045.155989;i:4;a:0:{}i:5;i:1314920;}i:7;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1578980045.155992;i:4;a:0:{}i:5;i:1315752;}i:8;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1578980045.155995;i:4;a:0:{}i:5;i:1316536;}i:9;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1578980045.155998;i:4;a:0:{}i:5;i:1317688;}i:10;a:6:{i:0;a:3:{s:4:"rule";s:11:"restaurants";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1578980045.156001;i:4;a:0:{}i:5;i:1318480;}i:11;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1578980045.156002;i:4;a:0:{}i:5;i:1318856;}}s:5:"route";s:14:"v1/foods/index";s:6:"action";s:57:"app\modules\v1\controllers\FoodsController::actionIndex()";}";s:3:"log";s:5204:"a:1:{s:8:"messages";a:20:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1578980045.154881;i:4;a:0:{}i:5;i:979960;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1578980045.154888;i:4;a:0:{}i:5;i:980760;}i:2;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1578980045.155459;i:4;a:0:{}i:5;i:1179736;}i:3;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1578980045.155734;i:4;a:0:{}i:5;i:1281208;}i:4;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1578980045.15578;i:4;a:0:{}i:5;i:1287248;}i:12;a:6:{i:0;s:27:"Route requested: 'v1/foods'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1578980045.156008;i:4;a:0:{}i:5;i:1319664;}i:13;a:6:{i:0;s:18:"Loading module: v1";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1578980045.156013;i:4;a:0:{}i:5;i:1320152;}i:14;a:6:{i:0;s:28:"Route to run: v1/foods/index";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1578980045.156165;i:4;a:0:{}i:5;i:1350144;}i:15;a:6:{i:0;s:39:"Rate limit skipped: user not logged in.";i:1;i:4;i:2;s:37:"yii\filters\RateLimiter::beforeAction";i:3;d:1578980045.156413;i:4;a:0:{}i:5;i:1454824;}i:16;a:6:{i:0;s:73:"Running action: app\modules\v1\controllers\FoodsController::actionIndex()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1578980045.156468;i:4;a:0:{}i:5;i:1459376;}i:17;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `ref_restaurant`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.157395;i:4;a:0:{}i:5;i:1888896;}i:18;a:6:{i:0;s:54:"Opening DB connection: mysql:host=localhost;dbname=eda";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1578980045.157407;i:4;a:0:{}i:5;i:1889432;}i:23;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_restaurant' AND kcu.table_name = 'ref_restaurant'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.158487;i:4;a:0:{}i:5;i:1922656;}i:26;a:6:{i:0;s:96:"SELECT * FROM `ref_restaurant` WHERE (`slug`='jroo') AND (`ref_restaurant`.`deleted_at` IS NULL)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.159319;i:4;a:0:{}i:5;i:1953136;}i:29;a:6:{i:0;s:288:"SELECT `ref_food_categories`.* FROM `ref_food_categories` LEFT JOIN `ref_foods` ON (`ref_food_categories`.`id` = `ref_foods`.`ref_food_category_id`) AND (`ref_foods`.`deleted_at` IS NULL) WHERE (`ref_food_categories`.`ref_restaurant_id`=2) AND (`ref_food_categories`.`deleted_at` IS NULL)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.16056;i:4;a:0:{}i:5;i:2089696;}i:32;a:6:{i:0;s:44:"SHOW FULL COLUMNS FROM `ref_food_categories`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.161335;i:4;a:0:{}i:5;i:2096488;}i:35;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_food_categories' AND kcu.table_name = 'ref_food_categories'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.162168;i:4;a:0:{}i:5;i:2109496;}i:38;a:6:{i:0;s:97:"SELECT * FROM `ref_foods` WHERE (`ref_food_category_id`=3) AND (`ref_foods`.`deleted_at` IS NULL)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.162974;i:4;a:0:{}i:5;i:2118208;}i:41;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ref_foods`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.163543;i:4;a:0:{}i:5;i:2132744;}i:44;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_foods' AND kcu.table_name = 'ref_foods'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.164329;i:4;a:0:{}i:5;i:2145744;}}}";s:9:"profiling";s:7349:"a:3:{s:6:"memory";i:2172304;s:4:"time";d:0.011825084686279297;s:8:"messages";a:20:{i:19;a:6:{i:0;s:54:"Opening DB connection: mysql:host=localhost;dbname=eda";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1578980045.15741;i:4;a:0:{}i:5;i:1889808;}i:20;a:6:{i:0;s:54:"Opening DB connection: mysql:host=localhost;dbname=eda";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1578980045.15775;i:4;a:0:{}i:5;i:1901552;}i:21;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `ref_restaurant`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.157757;i:4;a:0:{}i:5;i:1902544;}i:22;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `ref_restaurant`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.158188;i:4;a:0:{}i:5;i:1918032;}i:24;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_restaurant' AND kcu.table_name = 'ref_restaurant'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.158497;i:4;a:0:{}i:5;i:1924632;}i:25;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_restaurant' AND kcu.table_name = 'ref_restaurant'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.158847;i:4;a:0:{}i:5;i:1926008;}i:27;a:6:{i:0;s:96:"SELECT * FROM `ref_restaurant` WHERE (`slug`='jroo') AND (`ref_restaurant`.`deleted_at` IS NULL)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.159341;i:4;a:0:{}i:5;i:1954336;}i:28;a:6:{i:0;s:96:"SELECT * FROM `ref_restaurant` WHERE (`slug`='jroo') AND (`ref_restaurant`.`deleted_at` IS NULL)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.159647;i:4;a:0:{}i:5;i:1956968;}i:30;a:6:{i:0;s:288:"SELECT `ref_food_categories`.* FROM `ref_food_categories` LEFT JOIN `ref_foods` ON (`ref_food_categories`.`id` = `ref_foods`.`ref_food_category_id`) AND (`ref_foods`.`deleted_at` IS NULL) WHERE (`ref_food_categories`.`ref_restaurant_id`=2) AND (`ref_food_categories`.`deleted_at` IS NULL)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.160574;i:4;a:0:{}i:5;i:2091280;}i:31;a:6:{i:0;s:288:"SELECT `ref_food_categories`.* FROM `ref_food_categories` LEFT JOIN `ref_foods` ON (`ref_food_categories`.`id` = `ref_foods`.`ref_food_category_id`) AND (`ref_foods`.`deleted_at` IS NULL) WHERE (`ref_food_categories`.`ref_restaurant_id`=2) AND (`ref_food_categories`.`deleted_at` IS NULL)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.161196;i:4;a:0:{}i:5;i:2093920;}i:33;a:6:{i:0;s:44:"SHOW FULL COLUMNS FROM `ref_food_categories`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.161349;i:4;a:0:{}i:5;i:2098784;}i:34;a:6:{i:0;s:44:"SHOW FULL COLUMNS FROM `ref_food_categories`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.161966;i:4;a:0:{}i:5;i:2109296;}i:36;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_food_categories' AND kcu.table_name = 'ref_food_categories'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.162183;i:4;a:0:{}i:5;i:2111472;}i:37;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_food_categories' AND kcu.table_name = 'ref_food_categories'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.162637;i:4;a:0:{}i:5;i:2113856;}i:39;a:6:{i:0;s:97:"SELECT * FROM `ref_foods` WHERE (`ref_food_category_id`=3) AND (`ref_foods`.`deleted_at` IS NULL)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.162992;i:4;a:0:{}i:5;i:2119392;}i:40;a:6:{i:0;s:97:"SELECT * FROM `ref_foods` WHERE (`ref_food_category_id`=3) AND (`ref_foods`.`deleted_at` IS NULL)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.163378;i:4;a:0:{}i:5;i:2122192;}i:42;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ref_foods`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.163553;i:4;a:0:{}i:5;i:2133736;}i:43;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ref_foods`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.164145;i:4;a:0:{}i:5;i:2147104;}i:45;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_foods' AND kcu.table_name = 'ref_foods'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.164342;i:4;a:0:{}i:5;i:2147720;}i:46;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_foods' AND kcu.table_name = 'ref_foods'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.164745;i:4;a:0:{}i:5;i:2150520;}}}";s:2:"db";s:6956:"a:1:{s:8:"messages";a:18:{i:21;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `ref_restaurant`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.157757;i:4;a:0:{}i:5;i:1902544;}i:22;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `ref_restaurant`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.158188;i:4;a:0:{}i:5;i:1918032;}i:24;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_restaurant' AND kcu.table_name = 'ref_restaurant'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.158497;i:4;a:0:{}i:5;i:1924632;}i:25;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_restaurant' AND kcu.table_name = 'ref_restaurant'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.158847;i:4;a:0:{}i:5;i:1926008;}i:27;a:6:{i:0;s:96:"SELECT * FROM `ref_restaurant` WHERE (`slug`='jroo') AND (`ref_restaurant`.`deleted_at` IS NULL)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.159341;i:4;a:0:{}i:5;i:1954336;}i:28;a:6:{i:0;s:96:"SELECT * FROM `ref_restaurant` WHERE (`slug`='jroo') AND (`ref_restaurant`.`deleted_at` IS NULL)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.159647;i:4;a:0:{}i:5;i:1956968;}i:30;a:6:{i:0;s:288:"SELECT `ref_food_categories`.* FROM `ref_food_categories` LEFT JOIN `ref_foods` ON (`ref_food_categories`.`id` = `ref_foods`.`ref_food_category_id`) AND (`ref_foods`.`deleted_at` IS NULL) WHERE (`ref_food_categories`.`ref_restaurant_id`=2) AND (`ref_food_categories`.`deleted_at` IS NULL)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.160574;i:4;a:0:{}i:5;i:2091280;}i:31;a:6:{i:0;s:288:"SELECT `ref_food_categories`.* FROM `ref_food_categories` LEFT JOIN `ref_foods` ON (`ref_food_categories`.`id` = `ref_foods`.`ref_food_category_id`) AND (`ref_foods`.`deleted_at` IS NULL) WHERE (`ref_food_categories`.`ref_restaurant_id`=2) AND (`ref_food_categories`.`deleted_at` IS NULL)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.161196;i:4;a:0:{}i:5;i:2093920;}i:33;a:6:{i:0;s:44:"SHOW FULL COLUMNS FROM `ref_food_categories`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.161349;i:4;a:0:{}i:5;i:2098784;}i:34;a:6:{i:0;s:44:"SHOW FULL COLUMNS FROM `ref_food_categories`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.161966;i:4;a:0:{}i:5;i:2109296;}i:36;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_food_categories' AND kcu.table_name = 'ref_food_categories'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.162183;i:4;a:0:{}i:5;i:2111472;}i:37;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_food_categories' AND kcu.table_name = 'ref_food_categories'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.162637;i:4;a:0:{}i:5;i:2113856;}i:39;a:6:{i:0;s:97:"SELECT * FROM `ref_foods` WHERE (`ref_food_category_id`=3) AND (`ref_foods`.`deleted_at` IS NULL)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.162992;i:4;a:0:{}i:5;i:2119392;}i:40;a:6:{i:0;s:97:"SELECT * FROM `ref_foods` WHERE (`ref_food_category_id`=3) AND (`ref_foods`.`deleted_at` IS NULL)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.163378;i:4;a:0:{}i:5;i:2122192;}i:42;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ref_foods`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.163553;i:4;a:0:{}i:5;i:2133736;}i:43;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ref_foods`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.164145;i:4;a:0:{}i:5;i:2147104;}i:45;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_foods' AND kcu.table_name = 'ref_foods'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.164342;i:4;a:0:{}i:5;i:2147720;}i:46;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_foods' AND kcu.table_name = 'ref_foods'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1578980045.164745;i:4;a:0:{}i:5;i:2150520;}}}";s:5:"event";s:5182:"a:28:{i:0;a:5:{s:4:"time";d:1578980045.155912;s:4:"name";s:13:"beforeRequest";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:1;a:5:{s:4:"time";d:1578980045.156197;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:2;a:5:{s:4:"time";d:1578980045.156209;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:21:"app\modules\v1\Module";}i:3;a:5:{s:4:"time";d:1578980045.156459;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:42:"app\modules\v1\controllers\FoodsController";}i:4;a:5:{s:4:"time";d:1578980045.156752;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:43:"app\modules\v1\models\ApiFoodCategorySearch";}i:5;a:5:{s:4:"time";d:1578980045.157215;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:43:"common\models\db\queries\RefRestaurantQuery";}i:6;a:5:{s:4:"time";d:1578980045.157743;s:4:"name";s:9:"afterOpen";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:17:"yii\db\Connection";}i:7;a:5:{s:4:"time";d:1578980045.159925;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:30:"common\models\db\RefRestaurant";}i:8;a:5:{s:4:"time";d:1578980045.159986;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:30:"common\models\db\RefRestaurant";}i:9;a:5:{s:4:"time";d:1578980045.160036;s:4:"name";s:14:"beforeValidate";s:5:"class";s:19:"yii\base\ModelEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:43:"app\modules\v1\models\ApiFoodCategorySearch";}i:10;a:5:{s:4:"time";d:1578980045.160116;s:4:"name";s:13:"afterValidate";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:43:"app\modules\v1\models\ApiFoodCategorySearch";}i:11;a:5:{s:4:"time";d:1578980045.160186;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:47:"common\models\db\queries\RefFoodCategoriesQuery";}i:12;a:5:{s:4:"time";d:1578980045.160346;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:34:"common\models\db\RefFoodCategories";}i:13;a:5:{s:4:"time";d:1578980045.160417;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"common\models\db\queries\RefFoodsQuery";}i:14;a:5:{s:4:"time";d:1578980045.161287;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:34:"common\models\db\RefFoodCategories";}i:15;a:5:{s:4:"time";d:1578980045.162744;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:38:"common\models\db\queries\RefFoodsQuery";}i:16;a:5:{s:4:"time";d:1578980045.163494;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"common\models\db\RefFoods";}i:17;a:5:{s:4:"time";d:1578980045.164879;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:47:"common\models\db\queries\RefFoodCategoriesQuery";}i:18;a:5:{s:4:"time";d:1578980045.164915;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:25:"common\models\db\RefFoods";}i:19;a:5:{s:4:"time";d:1578980045.164954;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:47:"common\models\db\queries\RefFoodCategoriesQuery";}i:20;a:5:{s:4:"time";d:1578980045.164983;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:34:"common\models\db\RefFoodCategories";}i:21;a:5:{s:4:"time";d:1578980045.165193;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:42:"app\modules\v1\controllers\FoodsController";}i:22;a:5:{s:4:"time";d:1578980045.165267;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:21:"app\modules\v1\Module";}i:23;a:5:{s:4:"time";d:1578980045.165274;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:24;a:5:{s:4:"time";d:1578980045.165283;s:4:"name";s:12:"afterRequest";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:25;a:5:{s:4:"time";d:1578980045.165291;s:4:"name";s:10:"beforeSend";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:26;a:5:{s:4:"time";d:1578980045.165477;s:4:"name";s:12:"afterPrepare";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:27;a:5:{s:4:"time";d:1578980045.165528;s:4:"name";s:9:"afterSend";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:91:"a:3:{s:5:"start";d:1578980045.154291;s:3:"end";d:1578980045.166355;s:6:"memory";i:2172304;}";s:4:"user";s:2:"N;";s:4:"dump";s:6:"a:0:{}";s:7:"summary";a:12:{s:3:"tag";s:13:"5e1d52cd25f6b";s:3:"url";s:43:"http://api.eda.loc/v1/foods?restaurant=jroo";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:9:"127.0.0.1";s:4:"time";d:1578980045.154026;s:10:"statusCode";i:200;s:8:"sqlCount";i:9;s:9:"mailCount";i:0;s:9:"mailFiles";a:0:{}s:10:"peakMemory";i:2172304;s:14:"processingTime";d:0.011825084686279297;}s:10:"exceptions";a:0:{}}
